@@ -1,0 +1,14 @@
+h1{
+    color: rgb(4, 58, 58);
+}
+
+body{
+    background-color: #c8f3c8;
+}
+
+hr{
+    color: white;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 50%;
+}
